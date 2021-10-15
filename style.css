@@ -7,3 +7,6 @@ h1:hover {
     color: gold;
     cursor: pointer;
 }
+h1,h2{
+    font-family: 'Ephesis', cursive;
+}
