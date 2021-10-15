@@ -1,11 +1,9 @@
-h1 {
+
+*{
+    font-family: 'Ephesis', cursive;
     color: orange;
 }
-
-h1:hover {
+h1,h2,p:hover {
     color: gold;
     cursor: pointer;
-}
-h1,h2{
-    font-family: 'Ephesis', cursive;
 }
